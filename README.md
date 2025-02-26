@@ -1,8 +1,8 @@
-<h2 align="left">Hi there! Welcome to my Github profile</h2>
+<h2 align="left">Hi there! Welcome to my Github profile!</h2>
 
 ###
 
-<p align="left">- My name is João Marcos and I'm Data Science Studant, from GO, Brazil</p>
+<p align="left">- My name is João Marcos and I'm Data Science Studant, from GO, Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Master in Physics<br>- Data Science student</p>
+<p align="left">- Master in Physics;<br>- Data Science student.</p>
 
 ###
 
