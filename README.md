@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- My name is João Marcos and I'm Data Science Studant, from GO, Brazil.</p>
+<p align="left">- My name is João Marcos and I'm Software Engineering Studant, from GO, Brazil.</p>
 
 ###
 
