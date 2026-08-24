@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Master in Physics;<br>- Software engineering student.</p>
+<p align="left">- Master in Physics;<br>-
 
 ###
 
